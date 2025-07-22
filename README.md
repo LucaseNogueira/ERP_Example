@@ -25,15 +25,7 @@ DB_PASS=[SUA_SENHA_MYSQL]
  ```
 
 ## Iniciando o banco de dados
-No MySQL Workbench, ou na interface de sua preferênça, e crie um novo schema, passando as seguintes instruções:
-1. Name: erp_example_db
-2. Charset: utf8mb4
-3. Collation: Default Collation
-
-Caso preferir, execute o seguinte script SQL:
-```
-CREATE SCHEMA `erp_example_db` DEFAULT CHARACTER SET utf8mb4 ;
-```
+No MySQL Workbench, ou na interface de sua preferência, execute o script SQL *database/migration/Create Database and Tables.sql*
 
 ## Rode a aplicação localmente
 
