@@ -5,7 +5,7 @@ Um mini ERP para controle de pedidos, produtos, cupons e estoque.
 ## Tecnologias & versão:
 
 - **Banco de dados**: MYSQL;
-- **Frontend**: HTML, CSS, JavaScript, JQuery e Bootstrap;
+- **Frontend**: HTML, CSS, JavaScript, JQuery (3.7.1) e Bootstrap (5.3.7);
 - **Backend**: PHP (8.2.7);
 - **Suporte**: phpdotenv, composer (2.7.1);
 
